@@ -1,0 +1,18 @@
+Marca,Modelo,Ano,Tamanho_Motor,Tipo_Combustivel,Transmissao,Quilometragem,Portas,Numero_Proprietarios,Preco
+Kia,Sportage,2001,4.7,Electric,Semi-Automatic,157495,2,2,7702.34
+Toyota,RAV4,2005,3.1,Petrol,Manual,107724,2,5,6786.81
+Volkswagen,Golf,2007,3.2,Diesel,Automatic,60103,2,1,9848.78
+Hyundai,Elantra,2017,2.9,Electric,Automatic,38133,5,2,14655.38
+Chevrolet,Equinox,2018,1.8,Hybrid,Automatic,21261,2,1,13294.03
+Ford,Explorer,2006,2.8,Hybrid,Manual,99921,4,2,7699.54
+BMW,3 Series,2020,4.7,Electric,Semi-Automatic,210767,3,3,12372.23
+Honda,Civic,2015,2.6,Electric,Semi-Automatic,66777,5,1,11492.02
+Mercedes,GLA,2007,2.3,Electric,Manual,76458,3,5,8562.19
+Mercedes,E-Class,2011,1.8,Diesel,Semi-Automatic,261247,3,4,3848.22
+Chevrolet,Impala,2011,4.0,Hybrid,Automatic,136926,5,1,11145.26
+Ford,Focus,2003,3.2,Petrol,Semi-Automatic,85005,3,1,6578.64
+Volkswagen,Tiguan,2006,4.4,Petrol,Automatic,251894,2,4,6703.68
+Chevrolet,Malibu,2006,2.8,Petrol,Manual,253372,2,4,3673.88
+Volkswagen,Golf,2006,2.7,Hybrid,Automatic,9512,2,1,10988.14
+Audi,Q5,2018,1.7,Electric,Semi-Automatic,207019,2,3,8919.73
+BMW,5 Series,2008,4.4,Hybrid,Semi-Automatic,236894,2,1,7217.49
