@@ -2,8 +2,6 @@
 
 Car Price Prediction Data Analysis
 
-Car Price Prediction
-
 Project
 
 This dataset contains 10,000 entries created for the purpose of predicting car prices. Each row represents information about a car and its price.
