@@ -3,10 +3,6 @@ This dataset contains 10,000 entries created for the purpose of predicting car p
 
 Car Price Prediction Data Analysis
 
-Airplane Price Prediction
-
-Project
-
 This dataset contains 10,000 entries created for the purpose of predicting car prices.
 
 Car Price Prediction Data Analysis
